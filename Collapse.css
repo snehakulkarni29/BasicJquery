@@ -1,0 +1,22 @@
+.header {
+    display: flex;
+   
+    /* to tell that elements should wrap themselves to next line*/
+    flex-wrap: wrap;
+   
+
+    width: 50%;
+    background-color: blue;
+}
+
+.text {
+    display: flex;
+   
+    /* to tell that elements should wrap themselves to next line*/
+    flex-wrap: wrap;
+    height: 300px;
+    width: 50%;
+    background-color: red;
+}
+
+
